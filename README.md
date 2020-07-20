@@ -1,4 +1,4 @@
-### Hi! :wave: I'm Pranav Rayudu and I am an ~~apprentice sorcerer~~ CS undergrad student. 
+### Hi! :wave: I'm Pranav Rayudu and I am an ~~apprentice sorcerer~~ CS undergrad. 
 
 - 🌱 I’m currently learning **full stack development** and **machine learning with robotics** :robot:.
 - 🔭 I’m currently writing Selenium bots to take over the internet and chasing down React/Angular code in my internship with [Squarecap inc](https://info.squarecap.com/).
