@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'm Pranav Rayudu and I am a CS undergrad student. 
+
+- 🌱 I’m currently learning **full stack development** and **machine learning with robotics**
+- 👯 I’m looking to collaborate on open source or commericial projects
+- 💬 Ask me about React, Web Development, or flying laser sharks :bird: :gun: :fish:.
+- 📫 reach me @ tarakapranav@gmail.com
+- 😄 Pronouns: He/Him
+
+[Profile Page](https://pranavrayudu.netlify.app/), [Linkedin](https://www.linkedin.com/in/tarakapranav/)
+
+![Pranav Rayudu's github stats](https://github-readme-stats.vercel.app/api?username=PranavRayudu&show_icons=true&hide_border=true)
 
 <!--
 **PranavRayudu/PranavRayudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
