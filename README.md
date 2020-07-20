@@ -8,7 +8,7 @@
 
 [Profile Page](https://pranavrayudu.netlify.app/), [Linkedin](https://www.linkedin.com/in/tarakapranav/)
 
-![Pranav Rayudu's github stats](https://github-readme-stats.vercel.app/api?username=PranavRayudu&show_icons=true&hide_border=true)
+![Pranav Rayudu's github stats](https://github-readme-stats.vercel.app/api?username=PranavRayudu&hide=["stars","issues"]&show_icons=true&hide_border=true&title_color=131516&icon_color=0080a0)
 
 <!--
 **PranavRayudu/PranavRayudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
