@@ -1,12 +1,14 @@
-### Hi! :wave: I'm Pranav Rayudu and I am an ~~apprentice sorcerer~~ CS undergrad. 
+### Hi! :wave: I'm Pranav Rayudu, an <s>apprentice sorcerer</s> CS undergrad. 
 
 - 🌱 I’m currently learning **full stack development** and **machine learning with robotics** :robot:.
-- 🔭 I’m currently writing Selenium bots to take over the internet and chasing down React/Angular code in my internship with [Squarecap inc](https://info.squarecap.com/).
-- 💬 Ask me about React.js, Web Development (HTML, CSS, JS, the whole package), Flask and Python, or flying laser sharks :bird: :gun: :fish:.
+- 🔭 I’m currently writing Selenium bots to conquer the internet and wrangling React/Angular code in my internship with [Squarecap inc](https://info.squarecap.com/).
+- 💬 Ask me about React.js, web dev (HTML, CSS, JS), Flask and Python, or flying laser sharks :bird: :gun: :fish:.
 - 📫 reach me @ tarakapranav@gmail.com
 - ⚡ Fun fact: Apart from ~~summoning ancient spirits~~ writing code, I love painting :paintbrush:, riding my bike 🚲 around, and reading sci-fi books :books:.
 
-[Prortfolio](https://pranavrayudu.netlify.app/) (in-progress) and [Linkedin](https://www.linkedin.com/in/tarakapranav/)
+My goal is to create mobile and web apps that use machine learning in yet undiscovered ways.
+
+[Prortfolio](https://pranavrayudu.netlify.app/) (in-progress) and [Linkedin](https://www.linkedin.com/in/tarakapranav/).
 
 ![Pranav Rayudu's github stats](https://github-readme-stats.vercel.app/api?username=PranavRayudu&hide=["stars","issues"]&show_icons=true&hide_border=true&title_color=131516&icon_color=0080a0)
 
